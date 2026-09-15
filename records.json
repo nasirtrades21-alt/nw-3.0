@@ -1,0 +1,11 @@
+{
+  "fetched_at": null,
+  "source": "Northwest Washington DC",
+  "date_range": {
+    "lookback_days": 700,
+    "as_of": null
+  },
+  "total": 0,
+  "with_address": 0,
+  "records": []
+}

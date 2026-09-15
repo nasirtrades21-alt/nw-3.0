@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+data/parcel_cache.dbf
+data/parcel_cache.dbf_extracted/
